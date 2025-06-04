@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/andy-inman/config-ad/blob/main/README.md)
   - [Deploying Active Directory and Creating Users](https://github.com/andy-inman/deploy-ad/blob/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andy-inman/azure-net-proto))
 
 <h2>🤳Connect with me:</h2>
 
