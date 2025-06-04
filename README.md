@@ -12,5 +12,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andy-inman/azure-net-proto))
 
 <h2>🤳Connect with me:</h2>
-
 [linkedin]: https://www.linkedin.com/in/andrew-inman-6a0975362/
